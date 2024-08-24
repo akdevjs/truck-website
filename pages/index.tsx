@@ -17,7 +17,7 @@ const Home: React.FC = () => {
       <DreamHome />
       <About />
       <Service />
-      <h1 className="adding the stuff">Hellow this is the chaneg</h1>
+      <h1 className="adding the stuff">Hellow this is the this is new change</h1>
 
       <Divider mt="24" />
       <Footer />
