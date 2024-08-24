@@ -17,7 +17,7 @@ const Home: React.FC = () => {
       <DreamHome />
       <About />
       <Service />
-      <CreativeDirector />
+      <h1 className="adding the stuff">Hellow this is the chaneg</h1>
 
       <Divider mt="24" />
       <Footer />
